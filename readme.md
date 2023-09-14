@@ -1,4 +1,4 @@
-# OSM-Hackfest-uv-react
+# OSM-Hackfest-uv-notebook-draft
 # Utopian Vision
 ## Team_Pollyanna (Nirjal Bhurtel, Bikraj Shrestha, Dipen Khatri, Priyanshu Sharma)
 
